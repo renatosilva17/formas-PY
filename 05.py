@@ -6,6 +6,9 @@ def somar():
 
   while True:
     print("calculadora")
-    print("1-Adição")
-    print("2- subtração")
-    print()
+    print("1 - Adição")
+    print("2 - subtração")
+    print("3 - multiplicacao")
+    print("4 - divisao")
+    print("5 - pares")
+    print("0 - sair")
